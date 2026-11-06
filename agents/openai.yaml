@@ -1,4 +1,4 @@
 interface:
   display_name: "Idea Sprint｜自主思考引導"
-  short_description: "最多六輪、每次一問，從自己的觀察推導選題；提供知識與查證支架，避免 AI 代想與包裝空泛提案。"
-  default_prompt: "請用 $idea-sprint 引導我自行探索方向，最多六輪、每次一問，最後整理推導卡，不替我產生創意或補完論證。"
+  short_description: "先確認任務要求，廣泛探索預設三輪、全程最多六輪；檢查現象與目標關聯，保留自己的推導與查證缺口。"
+  default_prompt: "請用 $idea-sprint 引導我自行探索方向，先核對任務要求，探索最多三輪、整輪最多六輪，每次一問；不代想，最後交付推導卡。"
